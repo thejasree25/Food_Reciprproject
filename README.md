@@ -104,6 +104,26 @@ The application will run on:
 
 http://localhost:3000
 🎯 Learning Outcomes
+🏠 Home Page
+
+The Home Page displays a collection of recipes fetched from an external API. Users can browse recipes and view essential details through a clean and user-friendly interface.
+
+<img width="958" height="443" alt="home" src="https://github.com/user-attachments/assets/54dba283-f5ae-40eb-8e92-7ab8be8b7d4a" />
+👨‍🍳 Recipe Process
+
+The Process Page provides step-by-step cooking instructions and ingredients required to prepare the selected recipe.
+<img width="833" height="443" alt="image" src="https://github.com/user-attachments/assets/aa325a94-db61-47af-b89a-3ddc837d2f80" />
+.
+
+🌙 Dark Theme
+
+The application includes a Dark Theme toggle that allows users to switch between light and dark modes for a better viewing experience.
+<img width="1836" height="888" alt="image" src="https://github.com/user-attachments/assets/4665016b-386f-4837-b2d1-519dc3e2b81b" />
+
+📱 Responsive Design
+
+The application is fully responsive and works smoothly across mobile, tablet, and desktop devices
+<img width="1115" height="884" alt="image" src="https://github.com/user-attachments/assets/49091328-184c-4b37-bd54-ede3bfb1b4f2" />
 
 Through this project, I gained practical experience in:
 
