@@ -1,0 +1,33 @@
+.search-form {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin: 20px 0;
+}
+
+.search-input {
+  width: 300px;
+  padding: 10px;
+  border: 2px solid #ddd;
+  border-radius: 8px;
+  outline: none;
+}
+
+.search-btn,
+.clear-btn {
+  padding: 10px 15px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.search-btn {
+  background: #ff8e53;
+  color: white;
+}
+
+.clear-btn {
+  background: crimson;
+  color: white;
+}
